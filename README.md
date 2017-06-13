@@ -2,7 +2,7 @@
 Sample GUI program that the eyes will move allow the mouse
 
 ### Run in terminal
-Go to the directory contain files
+Go to the directory contain files <br />
 $ make
 
 
